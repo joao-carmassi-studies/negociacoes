@@ -1,15 +1,13 @@
-![image](https://github.com/user-attachments/assets/f6253884-b520-468e-b0a1-5c3ff34ec5c2)
+# Negociações 💼
 
+![Preview](https://github.com/user-attachments/assets/f6253884-b520-468e-b0a1-5c3ff34ec5c2)
 
-<hr>
+<p align="center">📊 Projeto "Negociações", focado em organização e análise de dados usando TypeScript e Bootstrap.</p>
 
-<p align="center">negociacoes</p>
+---
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
-* Bootstrap
-* TypeScript
-
-## Link:
-https://joao-carmassi.github.io/negociacoes/
+## 🛠 Tecnologias
+- HTML
+- CSS
+- Bootstrap
+- TypeScript
